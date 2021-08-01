@@ -12,7 +12,7 @@ con ayuda del artículo 25 definimos el objetivo de que los agricultores de este
 a empresas del sector público y privado. 
 
 ### Link al Tiktok
-[![TikTok](![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/43510347/127766299-2847cd31-111a-4ed0-8fa9-3cd991d0b905.png)](https://vm.tiktok.com/ZMdcwQknb/)
+[![TikTok](![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/43510347/127766299-2847cd31-111a-4ed0-8fa9-3cd991d0b905.png)](https://vm.tiktok.com/ZMdcwasWu/)
 ### Diagrama de Azure
 ![image](https://user-images.githubusercontent.com/43510347/127761652-894f2ee6-2841-4f04-b5e8-b8a3f03ae9a5.png)
 
